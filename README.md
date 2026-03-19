@@ -19,8 +19,8 @@ Every day for 16 days, I'm comparing AI tools head-to-head with advanced demos a
 
 ## Follow Along
 
-- **LinkedIn:** [Tolani Omitokun](https://www.linkedin.com/in/tolaniomitokun/)
-- **X/Twitter:** [@tolaboratory](https://x.com/tolaniomitokun)
+- **LinkedIn:** [Tolani Omitokun](https://www.linkedin.com/in/tolaniomitokunproductmanager)
+- **X/Twitter:** [@TolaniAI](https://x.com/TolaniAI)
 - **Hashtag:** #AIMarchMadness
 
 ## Built With
